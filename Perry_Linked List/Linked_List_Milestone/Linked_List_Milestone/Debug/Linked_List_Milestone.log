@@ -1,0 +1,4 @@
+﻿  Source.cpp
+g:\perry_linkedlist_milestone-1\perry_linkedlist_milestone-1\linked_list_milestone\linked_list_milestone\source.cpp(150): warning C4326: return type of 'main' should be 'int' instead of 'void'
+g:\perry_linkedlist_milestone-1\perry_linkedlist_milestone-1\linked_list_milestone\linked_list_milestone\source.cpp(96): warning C4715: 'DL_List<int>::Find': not all control paths return a value
+  Linked_List_Milestone.vcxproj -> G:\Perry_LinkedList_Milestone-1\Perry_LinkedList_Milestone-1\Linked_List_Milestone\Debug\Linked_List_Milestone.exe
